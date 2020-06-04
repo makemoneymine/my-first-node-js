@@ -1,0 +1,5 @@
+httpd
+my-first-shell
+tmp
+tmp2
+vim-study
